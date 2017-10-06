@@ -1,4 +1,4 @@
-c static String fullSystemProperties(String propName) {
+public static String fullSystemProperties(String propName) {
         String line="";
         BufferedReader input = null;
         try {
